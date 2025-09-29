@@ -1,0 +1,40 @@
+ body {
+    background: linear-gradient(to right, lightsteelblue, slategray);
+    font-family: "Comic Sans Ms", cursive;
+    color: #ffe4e1;
+    padding: 20px;
+  }
+
+h1 {
+    color: lightsteelblue;
+    font-family: Arial, sans-serif;
+    font-size: larger;
+    text-align: left;
+}
+
+h2 {
+    color: lightgreen;
+    font-size: 25px;
+    font-family: "Times New Roman", serif;
+}
+
+h3 {
+    color: lightpink;
+    font-style: italic;
+}
+header {
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+.intro {
+    background-color: lightgrey;
+    padding: 20px;
+    border: 2px solid skyblue;
+}
+
+.content {
+    background-color: lightyellow;
+    padding: 15px;
+    border: 1px dashed orange;
+}

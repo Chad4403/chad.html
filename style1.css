@@ -1,0 +1,25 @@
+ body {
+    background: linear-gradient(to right, #ffe4e1, #e0ffff);
+    font-family: "Comic Sans Ms", cursive;
+    color: #ffe4e1;
+    padding: 20px;
+  }
+
+  h1{
+    text-align: center;
+    color: darkseagreen;
+    text-shadow: 2px 2px 5px gray;
+    font-size: 40px
+  }
+
+  p {
+    color: cornflowerblue;
+    border: 2px cornflowerblue;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+  }
+
+
+
+
